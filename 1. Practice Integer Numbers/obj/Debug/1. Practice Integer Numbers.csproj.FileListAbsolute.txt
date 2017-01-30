@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\obj\Debug\1. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.pdb

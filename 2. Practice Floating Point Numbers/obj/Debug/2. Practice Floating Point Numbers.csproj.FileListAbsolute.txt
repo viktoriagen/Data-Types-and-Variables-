@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\obj\Debug\2. Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\Data Types and Variables - Exercises\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.pdb

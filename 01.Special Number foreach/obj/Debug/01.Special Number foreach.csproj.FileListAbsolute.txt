@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Lab Data Types - Text and Other Types, Variables\01.Special Number foreach\bin\Debug\01.Special Number foreach.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Lab Data Types - Text and Other Types, Variables\01.Special Number foreach\bin\Debug\01.Special Number foreach.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Lab Data Types - Text and Other Types, Variables\01.Special Number foreach\bin\Debug\01.Special Number foreach.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Lab Data Types - Text and Other Types, Variables\01.Special Number foreach\obj\Debug\01.Special Number foreach.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Lab Data Types - Text and Other Types, Variables\01.Special Number foreach\obj\Debug\01.Special Number foreach.pdb
