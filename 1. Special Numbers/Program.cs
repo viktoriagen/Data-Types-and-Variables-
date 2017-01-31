@@ -4,37 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1.Special_Numbers
+namespace _5.Refactor_Special_Numbers
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var n = int.Parse(Console.ReadLine());
-            var sum = 0;
-            var temp = 0;
-            for (int i = 1; i <= n; i++)
+            int maxNumber = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= maxNumber; i++)
             {
-               
-                    temp = i;
-                    sum = 0;
-                    do
-                    {
-                         
-                        sum = sum + (temp % 10);
-                        temp = temp / 10;
-                    } while (temp > 0);
-                    if (sum == 5 || sum == 7 || sum == 11)
-                    {
-                        Console.WriteLine("{0} -> True", i);
-                    }
-                    else
-                    {
-                        Console.WriteLine("{0} -> False", i);
-                    }
+                int sum = 0;
+                int currentNumber = i;
+                while (currentNumber > 0)
+                {
+                    sum += currentNumber % 10;
+                    currentNumber = currentNumber / 10;
                 }
+
+                bool result = (sum == 5) || (sum == 7) || (sum == 11);
+                Console.WriteLine($"{i} -> {result}");
+
             }
+        }
     }
 }
-
-
