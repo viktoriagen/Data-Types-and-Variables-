@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\bin\Debug\_9.Triangle_Formations.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\bin\Debug\_9.Triangle_Formations.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\bin\Debug\_9.Triangle_Formations.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\obj\Debug\9. Triangle Formations.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\obj\Debug\_9.Triangle_Formations.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\9. Triangle Formations\obj\Debug\_9.Triangle_Formations.pdb

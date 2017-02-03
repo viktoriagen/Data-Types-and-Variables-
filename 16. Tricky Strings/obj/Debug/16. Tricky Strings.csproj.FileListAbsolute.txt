@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\obj\Debug\16. Tricky Strings.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.pdb

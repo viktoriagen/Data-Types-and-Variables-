@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\bin\Debug\ASCII String.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\bin\Debug\ASCII String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\bin\Debug\ASCII String.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\obj\Debug\ASCII String.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\obj\Debug\ASCII String.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\ASCII String\obj\Debug\ASCII String.csprojResolveAssemblyReference.cache

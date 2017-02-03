@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\bin\Debug\_10.Data_Overflow.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\obj\Debug\10. Data Overflow.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\obj\Debug\_10.Data_Overflow.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\10. Data Overflow\obj\Debug\_10.Data_Overflow.pdb

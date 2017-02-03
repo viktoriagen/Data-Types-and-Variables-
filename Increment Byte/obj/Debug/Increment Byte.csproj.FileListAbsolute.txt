@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\Increment Byte\bin\Debug\Increment Byte.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\Increment Byte\bin\Debug\Increment Byte.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\Increment Byte\bin\Debug\Increment Byte.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\Increment Byte\obj\Debug\Increment Byte.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\Increment Byte\obj\Debug\Increment Byte.pdb

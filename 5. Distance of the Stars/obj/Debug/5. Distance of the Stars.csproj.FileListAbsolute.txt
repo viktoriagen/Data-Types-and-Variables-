@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\bin\Debug\_5.Distance_of_the_Stars.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\bin\Debug\_5.Distance_of_the_Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\bin\Debug\_5.Distance_of_the_Stars.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\obj\Debug\_5.Distance_of_the_Stars.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\obj\Debug\_5.Distance_of_the_Stars.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\02.Fundamentation\Projects\Data Types and Variables - Exercises\5. Distance of the Stars\obj\Debug\5. Distance of the Stars.csprojResolveAssemblyReference.cache
